@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-debt-and-loans-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-debt-and-loans",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-debt-and-loans-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/debt-and-loans.md",
+  "presentationPlan": "projects/accounting/nuxt/debt-and-loans.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
